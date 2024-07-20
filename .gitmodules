@@ -1,6 +1,3 @@
 [submodule "exams"]
 	path = exams
 	url = https://github.com/anchoringpoint/RustTest
-[submodule "rustlings"]
-	path = rustlings
-	url =  https://github.com/anchoringpoint/RustTest2
