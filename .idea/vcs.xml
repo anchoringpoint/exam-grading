@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exams" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exams/rust-rustlings-2024-spring-anchoringpoint" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exams/rustlings" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/learning-lm-rs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rustlings" vcs="Git" />
+  </component>
+</project>
