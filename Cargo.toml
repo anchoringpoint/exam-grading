@@ -5,7 +5,11 @@ exclude = [
   "tests/fixture/state",
   "tests/fixture/success",
   "dev",
-  "learning-lm-rs",
+  "rustlings",
+  "learning-cxx",
+  "exams",
+  "TinyInfiniTensor",
+  "learning-lm-rs"
 ]
 
 [workspace.package]
@@ -44,7 +48,6 @@ include = [
   "/dev-Cargo.toml",
   "/README.md",
   "/LICENSE",
-
 ]
 
 [dependencies]
@@ -74,4 +77,3 @@ panic = "abort"
 
 [package.metadata.release]
 pre-release-hook = ["./release-hook.sh"]
-
